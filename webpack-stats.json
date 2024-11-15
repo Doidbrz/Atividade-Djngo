@@ -1,0 +1,14 @@
+{
+  "status": "done",
+  "assets": {
+    "main-1c1b9d59ebaa55d785d0.js": {
+      "name": "main-1c1b9d59ebaa55d785d0.js",
+      "path": "C:\\Users\\Riser\\Stock-Django\\assets\\dist\\main-1c1b9d59ebaa55d785d0.js"
+    }
+  },
+  "chunks": {
+    "main": [
+      "main-1c1b9d59ebaa55d785d0.js"
+    ]
+  }
+}

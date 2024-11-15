@@ -1,0 +1,7 @@
+{
+  "dependencies": {},
+  "scripts": {
+    "start": "./node_modules/.bin/webpack --config webpack.config.js",
+    "watch": "npm run start -- --watch"
+  }
+}
